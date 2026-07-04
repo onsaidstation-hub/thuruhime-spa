@@ -1,0 +1,508 @@
+{
+  "redirects": [
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "4"
+        }
+      ],
+      "destination": "/profile/id-4/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "7"
+        }
+      ],
+      "destination": "/profile/id-7/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "8"
+        }
+      ],
+      "destination": "/profile/id-8/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "9"
+        }
+      ],
+      "destination": "/profile/id-9/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "13"
+        }
+      ],
+      "destination": "/profile/id-13/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "14"
+        }
+      ],
+      "destination": "/profile/id-14/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "19"
+        }
+      ],
+      "destination": "/profile/id-19/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "20"
+        }
+      ],
+      "destination": "/profile/id-20/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "21"
+        }
+      ],
+      "destination": "/profile/id-21/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "24"
+        }
+      ],
+      "destination": "/profile/id-24/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "25"
+        }
+      ],
+      "destination": "/profile/id-25/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "27"
+        }
+      ],
+      "destination": "/profile/id-27/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "30"
+        }
+      ],
+      "destination": "/profile/id-30/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "31"
+        }
+      ],
+      "destination": "/profile/id-31/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "32"
+        }
+      ],
+      "destination": "/profile/id-32/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "35"
+        }
+      ],
+      "destination": "/profile/id-35/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "36"
+        }
+      ],
+      "destination": "/profile/id-36/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "39"
+        }
+      ],
+      "destination": "/profile/id-39/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "42"
+        }
+      ],
+      "destination": "/profile/id-42/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "45"
+        }
+      ],
+      "destination": "/profile/id-45/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "52"
+        }
+      ],
+      "destination": "/profile/id-52/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "57"
+        }
+      ],
+      "destination": "/profile/id-57/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "58"
+        }
+      ],
+      "destination": "/profile/id-58/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "60"
+        }
+      ],
+      "destination": "/profile/id-60/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "67"
+        }
+      ],
+      "destination": "/profile/id-67/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "68"
+        }
+      ],
+      "destination": "/profile/id-68/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "70"
+        }
+      ],
+      "destination": "/profile/id-70/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "73"
+        }
+      ],
+      "destination": "/profile/id-73/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "74"
+        }
+      ],
+      "destination": "/profile/id-74/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "76"
+        }
+      ],
+      "destination": "/profile/id-76/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "80"
+        }
+      ],
+      "destination": "/profile/id-80/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "81"
+        }
+      ],
+      "destination": "/profile/id-81/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "83"
+        }
+      ],
+      "destination": "/profile/id-83/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "84"
+        }
+      ],
+      "destination": "/profile/id-84/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "85"
+        }
+      ],
+      "destination": "/profile/id-85/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "89"
+        }
+      ],
+      "destination": "/profile/id-89/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "90"
+        }
+      ],
+      "destination": "/profile/id-90/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "92"
+        }
+      ],
+      "destination": "/profile/id-92/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "94"
+        }
+      ],
+      "destination": "/profile/id-94/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "96"
+        }
+      ],
+      "destination": "/profile/id-96/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "99"
+        }
+      ],
+      "destination": "/profile/id-99/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/",
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "100"
+        }
+      ],
+      "destination": "/profile/id-100/",
+      "permanent": true
+    }
+  ]
+}
