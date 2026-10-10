@@ -1,0 +1,4 @@
+# Archived CSS copies (files and directories, at any depth under css/).
+/css/**/*(1)*
+# Python maintenance scripts at any depth.
+*.py
